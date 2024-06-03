@@ -14,7 +14,7 @@ This project is about creating a travel website design using HTML and CSS. The w
 -> Social media icons<br/><br/>
 
 
-
+**Images:**<br/>
 <img src="https://github.com/riya-malviya/travel-website/assets/171536835/87752efa-9ef4-4b0c-93a2-851c6cf5a0aa" width="700" height="400"><br/><br/>
 <img src="https://github.com/riya-malviya/travel-website/assets/171536835/82f8df21-790f-4c8e-8a66-86ac98b1e5ed" width="700" height="400"><br/><br/>
 <img src="https://github.com/riya-malviya/travel-website/assets/171536835/c2d41c1c-ecf2-43de-8464-f418e338bd32" width="700" height="400"><br/><br/>
